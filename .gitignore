@@ -1,0 +1,5 @@
+/db/*.sqlite
+/public/assets*
+/tmp
+/vendor
+.envrc

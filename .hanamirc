@@ -1,0 +1,3 @@
+project=hanami_ominioauth_sample
+test=rspec
+template=slim

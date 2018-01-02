@@ -1,0 +1,9 @@
+h1 Home
+
+p = flash[:success]
+p = flash[:error]
+
+- if current_user.nil?
+  a(href="/auth/google_oauth2") Login
+- else
+  image(src=current_user.image_path)

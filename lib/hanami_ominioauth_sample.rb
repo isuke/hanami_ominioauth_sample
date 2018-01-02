@@ -1,0 +1,2 @@
+module HanamiOminioauthSample
+end
